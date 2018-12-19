@@ -42,7 +42,7 @@
   },
   "scripts": {
     "test": "karma start test/karma.conf.js",
-    "postinstall": "node.exe C:\Program Files (x86)\Jenkins\workspace\Restoran\node_modules\bower\bin\bower install"
+    "postinstall": "node.exe /node_modules/bower/bin/bower install"
   },
   "dependencies": {
     "express": "^4.16.4",
